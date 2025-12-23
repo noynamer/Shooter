@@ -1,6 +1,6 @@
-Проект написан с использованием библиотеки "SFML-2.5.1 x86"
-Библиотеку можно скачать по ссылке: https://www.sfml-dev.org/download/sfml/2.5.1/
-Ознакомиться с настройкой библиотеки можно по ссылке: https://www.sfml-dev.org/tutorials/2.5/start-vc.php
+Проект написан с использованием библиотеки "SFML-2.5.1 x86"  
+Библиотеку можно скачать по ссылке: https://www.sfml-dev.org/download/sfml/2.5.1/  
+Ознакомиться с настройкой библиотеки можно по ссылке: https://www.sfml-dev.org/tutorials/2.5/start-vc.php  
 
 Список использованных ".lib":
 sfml-graphics-s.lib;
